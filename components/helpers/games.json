@@ -3,22 +3,22 @@
     {
       "name": "Book of Amduat",
       "gameCode": "bookofamduat",
-      "link": "https://casino.mrgreen.com/en-US/game/play/fun/gonzos-quest"
+      "link": "http://matrix-studios-games-staging.s3-website-eu-west-1.amazonaws.com/games/bookofamduat/index.html?language=en&playerId=player760000&certification=true&isLightBuild=true&highRes=false"
     },
     {
-      "name": "9 Planet Shockers",
+      "name": "Game 1",
       "gameCode": "9planetshockers",
-      "link": "https://staging.matrixstudios.com/games/9planetshockers/index.html?language=en&playerId=player114750&certification=false&isLightBuild=false&highRes=true"
+      "link": "http://www.pixentstudio.com/pixentapp/game1/index.html"
     },
     {
-      "name": "Fabulous Fairies",
+      "name": "Game 2",
       "gameCode": "fabulousfairies",
-      "link": "https://staging.matrixstudios.com/games/fabulousfairies/index.html?language=en&playerId=player937692&certification=false&isLightBuild=false&highRes=true"
+      "link": "http://www.pixentstudio.com/pixentapp/game2/index.html"
     },
     {
-      "name": "Aapos Quest",
+      "name": "Game 3",
       "gameCode": "aaposquest",
-      "link": "https://staging.matrixstudios.com/games/aaposquest/index.html?language=en&playerId=player883110&certification=false&isLightBuild=false&highRes=true"
+      "link": "http://www.pixentstudio.com/pixentapp/game3/index.html"
     },
     {
       "name": "Swan House",
