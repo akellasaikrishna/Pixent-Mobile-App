@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "name": "Book of Amduat",
+      "gameCode": "bookofamduat",
+      "link": "https://casino.mrgreen.com/en-US/game/play/fun/gonzos-quest"
+    },
+    {
+      "name": "9 Planet Shockers",
+      "gameCode": "9planetshockers",
+      "link": "https://staging.matrixstudios.com/games/9planetshockers/index.html?language=en&playerId=player114750&certification=false&isLightBuild=false&highRes=true"
+    },
+    {
+      "name": "Fabulous Fairies",
+      "gameCode": "fabulousfairies",
+      "link": "https://staging.matrixstudios.com/games/fabulousfairies/index.html?language=en&playerId=player937692&certification=false&isLightBuild=false&highRes=true"
+    },
+    {
+      "name": "Aapos Quest",
+      "gameCode": "aaposquest",
+      "link": "https://staging.matrixstudios.com/games/aaposquest/index.html?language=en&playerId=player883110&certification=false&isLightBuild=false&highRes=true"
+    },
+    {
+      "name": "Swan House",
+      "gameCode": "swanhouse",
+      "link": "https://staging.matrixstudios.com/games/swanhouse/index.html?language=en&playerId=player255981&certification=false&isLightBuild=false&highRes=true"
+    }
+  ]
+}

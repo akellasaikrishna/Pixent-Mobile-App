@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "PIXENT",
+    "slug": "PIXENT",
+    "version": "1.0.0",
+    "icon": "./assets/appIcon.png",
+    "splash": {
+      "image": "./assets/appLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFC107"
+    },
+    "androidNavigationBar": {
+      "visible": "sticky-immersive"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 20000,
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.pixent.lobby",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFC107",
+        "foregroundImage": "./assets/appIcon.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
