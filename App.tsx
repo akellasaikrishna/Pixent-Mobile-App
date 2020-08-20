@@ -29,7 +29,8 @@ export default class App extends React.Component<any, state> {
   }
   async componentDidMount() {
     await Font.loadAsync({
-      Montserrat: require("./assets/Montserrat-Regular.ttf"),
+      Montserrat: require("./assets/fonts/Montserrat-Regular.ttf"),
+      Lexend: require("./assets/fonts/LexendZetta.ttf"),
     });
     this.setState({ isFontLoaded: true });
   }

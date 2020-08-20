@@ -7,7 +7,7 @@
     "splash": {
       "image": "./assets/appLogo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#FFC107"
+      "backgroundColor": "#FFFFFF"
     },
     "androidNavigationBar": {
       "visible": "sticky-immersive"
@@ -23,6 +23,7 @@
     },
     "android": {
       "package": "com.pixent.lobby",
+      "googleServicesFile": "./assets/google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#FFC107",
         "foregroundImage": "./assets/appIcon.png"
